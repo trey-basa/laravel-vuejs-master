@@ -18,7 +18,7 @@
 
 
 ### Installation
-`git clone https://github.com/dreamhope118/laravel-vuejs.git`
+`git clone https://github.com/dreamhope118/laravel-vuejs-master.git`
 
 `cd spa-laravel-vuejs`
 
