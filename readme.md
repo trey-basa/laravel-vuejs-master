@@ -1,4 +1,4 @@
-# Single Page Application with Laravel 5.3 and Vue.js
+# Laravel 5.3 and Vue.js
 
 ### Frameworks and Libraries:
 
