@@ -1,4 +1,4 @@
-# Single Page Application with Laravel 5.3 and Vue.js 2.1.x
+# Single Page Application with Laravel 5.3 and Vue.js
 
 ### Frameworks and Libraries:
 
@@ -17,14 +17,8 @@
 - Filter relations
 
 
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s1.png)
-
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s2.png)
-
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s3.png)
-
 ### Installation
-`git clone https://github.com/codekerala/spa-laravel-vuejs.git`
+`git clone https://github.com/dreamhope118/laravel-vuejs.git`
 
 `cd spa-laravel-vuejs`
 
@@ -39,6 +33,3 @@ Find the link for paid full source code from codecanyon.
 [Buy Flow Now](https://codecanyon.net/item/flow-simple-crm-for-freelancers-and-small-businesses/22641018)
 
 
-### On Youtube
-
-Development: https://youtu.be/gaoqbUvMrBs
